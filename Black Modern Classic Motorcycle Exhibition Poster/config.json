@@ -278,7 +278,7 @@
         "8"
       ],
       "data": {
-        "font": "https://github.com/Kesehet/adsweet-templates/raw/main/fonts/CanvaSans-BoldItalic.ttf",
+        "font": "https://github.com/Kesehet/adsweet-templates/raw/main/fonts/TAN_-_HEADLINE.ttf",
         "size": [
           "400",
           "100"
@@ -292,7 +292,7 @@
           "0",
           "255",
           "0",
-          "255"
+          "0"
         ],
         "single_line": false
       }
