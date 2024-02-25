@@ -1,1 +1,301 @@
-{}
+{
+  "name": "",
+  "canvas_size": [
+    0,
+    0
+  ],
+  "background_color": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/1.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/2.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "This is a really great site. with a very long text. and i dont like very long texts but i was told to keep it this way to test the limits of the box.",
+      "position": [
+        "65",
+        "8"
+      ],
+      "data": {
+        "font": "https://github.com/Kesehet/adsweet-templates/raw/main/fonts/CanvaSans-RegularItalic.ttf",
+        "size": [
+          "620",
+          "100"
+        ],
+        "color": [
+          "0",
+          "0",
+          "0"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/3.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/4.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "Headphones for Sale!!",
+      "position": [
+        "46",
+        "25"
+      ],
+      "data": {
+        "font": "https://github.com/Kesehet/adsweet-templates/raw/main/fonts/TAN_-_HEADLINE.ttf",
+        "size": [
+          "1180",
+          "500"
+        ],
+        "color": [
+          "255",
+          "204",
+          "0"
+        ],
+        "background_color": [
+          "0",
+          "255",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://www.picng.com/upload/headphones/png_headphones_71288.png",
+      "position": [
+        "50",
+        "60"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "1221",
+          "250"
+        ],
+        "color": [
+          "0",
+          "0",
+          "0"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/6.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/7.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Kesehet/adsweet-templates/main/Black%20Modern%20Classic%20Motorcycle%20Exhibition%20Poster/5.png",
+      "position": [
+        "50",
+        "50"
+      ],
+      "data": {
+        "font": "",
+        "size": [
+          "800",
+          "200"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "single_line": false
+      }
+    },
+    {
+      "src": "Classic",
+      "position": [
+        "15",
+        "8"
+      ],
+      "data": {
+        "font": "https://github.com/Kesehet/adsweet-templates/raw/main/fonts/CanvaSans-BoldItalic.ttf",
+        "size": [
+          "400",
+          "100"
+        ],
+        "color": [
+          "255",
+          "255",
+          "255"
+        ],
+        "background_color": [
+          "0",
+          "255",
+          "0",
+          "255"
+        ],
+        "single_line": false
+      }
+    }
+  ]
+}
